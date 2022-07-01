@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Muhammad Ali",
+      "titles": [ "Fullstack Developer", "AI Engineer", "Aerospace Engineer" ],
       "social": [
         {
           "name": "github",
@@ -29,13 +29,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Rails",
+          "class": "devicon-rails-plain",
           "level": "90"
         },
         {
@@ -54,8 +54,8 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Heroku",
+          "class": "devicon-heroku-plain",
           "level": "65"
         },
         {
